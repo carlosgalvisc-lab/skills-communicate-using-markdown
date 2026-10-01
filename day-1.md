@@ -1,6 +1,12 @@
 # Daily Learning
 
 ## Morning Planning
+**NEGRITA**
+<br />
+*CURSIVA*
+<br />
+***CURSIVA Y NEGRITA***
+
 
 ## Review
 ### Lista no ordenada
